@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Switch, Route, NavLink } from "react-router-dom";
 import Movie from "./components/Movie";
 import FavMovie from "./components/FavMovie";
-
+//Burak Altıparmak
 import { useSelector } from "react-redux";
 
 function App() {
